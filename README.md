@@ -10,8 +10,3 @@ Backend Python
 
 Ferramentas Git GitHub
 
-📫 Contato
-
-Aberto a oportunidades! Pode me chamar por aqui ou pelas redes abaixo:
-
-LinkedIn Gmail 
