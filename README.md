@@ -1,16 +1,16 @@
-## Hi there 👋
+Olá, eu sou o Pedro! 👋
+Desenvolvedor Back-end em formação. Estou em busca da minha primeira oportunidade na área de programação e animado para contribuir em projetos reais.
 
-<!--
-**Pedro-Amaral16/Pedro-Amaral16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tecnologias & Ferramentas
 
-Here are some ideas to get you started:
+Frontend HTML5 CSS3 JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend Python
+
+Ferramentas Git GitHub
+
+📫 Contato
+
+Aberto a oportunidades! Pode me chamar por aqui ou pelas redes abaixo:
+
+LinkedIn Gmail 
